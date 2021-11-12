@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Twemoji Mozilla';
+    src: url('../webfonts/TwemojiMozilla.ttf') format("truetype");
+}
+
+.emoji-font {
+  font-family: 'Twemoji Mozilla';
+}
